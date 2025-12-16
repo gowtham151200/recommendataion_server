@@ -1,3 +1,4 @@
+# MCP Recommendation Server (TypeScript)
 ## Quick start
 
 1. Copy `.env.example` to `.env` and set DATABASE_URL.
@@ -11,6 +12,7 @@
    npm start
    ```
    npx @modelcontextprotocol/inspector
+
 Tools available via MCP stdio:
 - search_products
 - get_product_details
